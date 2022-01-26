@@ -1,0 +1,19 @@
+/* You need to create the rest of styles for the layout shown */
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+
+}
+
+
+.options {
+    display: flex;
+    margin: 0 0.5rem;
+    border: 1px dotted dodgerblue;
+    padding: .25rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
